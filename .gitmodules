@@ -1,0 +1,3 @@
+[submodule "WZ_child_submodule"]
+	path = WZ_child_submodule
+	url = https://github.com/hayder-abdulsahib-nadSoft/WZ_child_submodule.git
